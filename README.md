@@ -1,1 +1,1 @@
-# pygame-spike-orb
+Spike Orb was my very first game and I used it as a way to learn how Pygame works. All the code used is original and was written by me, although, the game is heavily inspired by the popular mobile game “Flappy Bird”. All of the backgrounds used were generated using Stable Diffusion. The rest of the graphics used were designed by me using Affinity Designer. The game only requires the use of spacebar to move the character and the goal is to dodge pillars in order to get the highest score possible. (Works on Windows computers only)
