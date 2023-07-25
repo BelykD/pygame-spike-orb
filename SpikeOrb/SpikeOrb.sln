@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SpikeOrb", "SpikeOrb\SpikeOrb.pyproj", "{26ECD446-7C3D-49C3-A41F-7E141E53FFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26ECD446-7C3D-49C3-A41F-7E141E53FFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26ECD446-7C3D-49C3-A41F-7E141E53FFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C7A709A-9B62-40CD-AF88-913F2395E4C1}
+	EndGlobalSection
+EndGlobal
